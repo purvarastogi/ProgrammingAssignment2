@@ -106,7 +106,7 @@ This assignment will be graded via peer assessment.
 
 
 
-#Answer1-
+#Answer
 
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -125,8 +125,6 @@ makeCacheMatrix <- function(x = matrix()) {
   
 }
 
-
-##Answer2-
 
 #Write a short comment describing this function
 
